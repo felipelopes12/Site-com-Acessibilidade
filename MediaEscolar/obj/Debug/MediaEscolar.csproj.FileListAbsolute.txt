@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\MediaEscolar\MediaEscolar\bin\Debug\MediaEscolar.exe.config
+C:\Users\Administrador\Documents\MediaEscolar\MediaEscolar\bin\Debug\MediaEscolar.exe
+C:\Users\Administrador\Documents\MediaEscolar\MediaEscolar\bin\Debug\MediaEscolar.pdb
+C:\Users\Administrador\Documents\MediaEscolar\MediaEscolar\obj\Debug\MediaEscolar.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\MediaEscolar\MediaEscolar\obj\Debug\MediaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\MediaEscolar\MediaEscolar\obj\Debug\MediaEscolar.exe
+C:\Users\Administrador\Documents\MediaEscolar\MediaEscolar\obj\Debug\MediaEscolar.pdb
+C:\Users\Administrador\Desktop\MediaEscolar\MediaEscolar\bin\Debug\MediaEscolar.exe.config
+C:\Users\Administrador\Desktop\MediaEscolar\MediaEscolar\bin\Debug\MediaEscolar.exe
+C:\Users\Administrador\Desktop\MediaEscolar\MediaEscolar\bin\Debug\MediaEscolar.pdb
+C:\Users\Administrador\Desktop\MediaEscolar\MediaEscolar\obj\Debug\MediaEscolar.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\MediaEscolar\MediaEscolar\obj\Debug\MediaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\MediaEscolar\MediaEscolar\obj\Debug\MediaEscolar.exe
+C:\Users\Administrador\Desktop\MediaEscolar\MediaEscolar\obj\Debug\MediaEscolar.pdb
