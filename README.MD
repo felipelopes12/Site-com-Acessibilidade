@@ -3,6 +3,9 @@ Calcula a média dos alunos e passa se ele estará aprovado ou reprovado.
 
 <p>
 <img src="img/inicio.PNG">
+</p>
+
+<p>
 <img src="img/aprovado.PNG">
 </p>
 
